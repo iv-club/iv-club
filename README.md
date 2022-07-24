@@ -16,7 +16,6 @@
 <div align="left">
   Athers & Tools
   <br>
-  <img src="https://img.shields.io/badge/R-white?style=for-the-badge&logo=R&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-blue?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/VScode-white?style=for-the-badge&logo=Visual Studio&logoColor=blue"/>
